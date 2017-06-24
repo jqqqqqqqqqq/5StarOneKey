@@ -24,8 +24,8 @@
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(5) > button:nth-child(5)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(10) > button:nth-child(5)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(15) > button:nth-child(5)").click();
-        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(5) > button:nth-child(5)").click();
-        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(10) > button:nth-child(5)").click();
+        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(6) > button:nth-child(5)").click();
+        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(11) > button:nth-child(5)").click();
     };
     
     var _533355 = document.createElement("button");
@@ -38,8 +38,8 @@
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(5) > button:nth-child(3)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(10) > button:nth-child(3)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(15) > button:nth-child(3)").click();
-        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(5) > button:nth-child(5)").click();
-        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(10) > button:nth-child(5)").click();
+        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(6) > button:nth-child(5)").click();
+        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(11) > button:nth-child(5)").click();
     };
     
     var _553355 = document.createElement("button");
@@ -52,7 +52,7 @@
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(5) > button:nth-child(5)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(10) > button:nth-child(3)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(15) > button:nth-child(3)").click();
-        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(5) > button:nth-child(5)").click();
-        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(10) > button:nth-child(5)").click();
+        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(6) > button:nth-child(5)").click();
+        document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(11) > button:nth-child(5)").click();
     };
 })();
