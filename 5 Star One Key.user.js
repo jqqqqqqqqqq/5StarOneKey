@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         5 Star One Key
-// @version      0.21
+// @version      0.22
 // @description  Give five star with single click
 // @updateURL    https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
 // @downloadURL  https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
@@ -32,7 +32,6 @@ function rate_portal(total, name, history, unique, location, safety) {
 function add_button() {
     var button_region = document.getElementById("submitDiv");
     buttons.forEach(function(button_data) {
-    	console.log(button_data);
         var button = document.createElement("button");
         var textnode = document.createTextNode(button_data["button"]);
         button.className = "button big-submit-button";
