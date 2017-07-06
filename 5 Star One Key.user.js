@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         5 Star One Key
-// @version      0.2
+// @version      0.21
 // @description  Give five star with single click
 // @updateURL    https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
 // @downloadURL  https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
@@ -14,6 +14,11 @@ var buttons = [
 	{button:"533355", total:5, name:5, history:3, unique:3, location:5, safety:5},
 	{button:"553355", total:5, name:3, history:3, unique:3, location:5, safety:5},
 ];
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////DO NOT EDIT THIS LINE BELOW!
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 function rate_portal(total, name, history, unique, location, safety) {
     document.querySelector("#AnswersController > form > div:nth-child(1) > div:nth-child(1) > div.btn-group > button:nth-child(" + total + ")").click();
