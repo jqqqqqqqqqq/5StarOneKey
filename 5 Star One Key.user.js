@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         5 Star One Key
-// @version      0.22
+// @version      0.23
 // @description  Give five star with single click
 // @updateURL    https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
 // @downloadURL  https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
@@ -11,8 +11,8 @@
 
 var buttons = [
 	{button:"Five Star", total:5, name:5, history:5, unique:5, location:5, safety:5},
-	{button:"533355", total:5, name:5, history:3, unique:3, location:5, safety:5},
-	{button:"553355", total:5, name:3, history:3, unique:3, location:5, safety:5},
+	{button:"553355", total:5, name:5, history:3, unique:3, location:5, safety:5},
+	{button:"533355", total:5, name:3, history:3, unique:3, location:5, safety:5},
 ];
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
