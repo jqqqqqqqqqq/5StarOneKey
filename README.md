@@ -14,5 +14,7 @@ https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.
 照着这个写，别忘了后面的逗号，在源代码上直接改就行
 
 {button:"553355", total:5, name:3, history:3, unique:3, location:5, safety:5},
+
 ↑按钮名称          ↑总分     ↑名字    ↑历史      ↑独一无二   ↑位置       ↑安全
+
 插入/替换到buttons那个list里即可
