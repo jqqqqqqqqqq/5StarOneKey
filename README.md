@@ -1,4 +1,5 @@
-# 5StarOneKey
+# 5StarOneKey - 已合并到 (MakeOPRGreatAgain)[https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain]
+
 已经更新到自定义打分版本，名字已经出现偏差啦，但是叫着顺口懒得改了
 
 使用教程
